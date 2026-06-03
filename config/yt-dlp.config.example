@@ -1,0 +1,2 @@
+--extractor-args youtube:player_client=mweb,tv
+--ignore-no-formats-error
